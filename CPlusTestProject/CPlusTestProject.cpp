@@ -1,8 +1,38 @@
 #include <iostream>
 
-using namespace std;
+using std::cin;
+using std::cout;
+using std::endl;
+
 
 int main()
+{
+
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*int main()
+{
+    int age;                                                                            // cout/cin = write/readline
+    cout << "Input your age: ";
+    cin >> age;
+    cout << "Your age: " << age << endl;
+    return 0;
+}*/
+
+
+/*int main()                                                                            // cout/cin = write/readline
 {
     int a = 0;
 
@@ -10,7 +40,7 @@ int main()
 
     cin >> a;
 
-    cout << "number a = " + a;
+    cout << "Your number = " << a << endl;
 
     return 0;
-}
+}*/

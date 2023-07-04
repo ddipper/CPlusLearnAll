@@ -15,13 +15,6 @@ int main()
 
 
 
-
-
-
-
-
-
-
 /*int main()
 {
     int age;                                                                            // cout/cin = write/readline

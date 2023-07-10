@@ -1,19 +1,47 @@
 #include <iostream>
 
-using std::cin;
-using std::cout;
-using std::endl;
-
+using namespace std;
 
 int main()
 {
-    cout << "Created by ddipper to Not ddipper";
+    int nums[3]{1,2,3};
 
     return 0;
 }
 
 
 
+
+
+
+
+
+/*nt main()
+{
+    int a = 1;
+    if (a == 8)
+        cout << "a = 8" << endl;
+    cout << "End of program";
+
+
+    return 0;
+}*/
+
+
+/*int main()
+{
+    int a = 0;
+    int b = 0;
+    
+    cin >> a;
+    cin >> b;
+
+    int c = a + b;
+
+    cout << "Num a + num b = " << c;
+
+    return 0;
+}*/
 
 
 /*int main()

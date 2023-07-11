@@ -11,11 +11,6 @@ int main()
 
 
 
-
-
-
-
-
 /*nt main()
 {
     int a = 1;
